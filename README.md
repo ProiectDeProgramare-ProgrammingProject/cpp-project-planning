@@ -4,7 +4,7 @@ Based on the project's statement, create a PDF file containing the technical des
 
 - (2p) PDF follows the example format from [example](en_example.pdf)
 - (4p) PDF contains project's description with tasks split by students
-- (4p) PDF contains data structures used by the team
+- (4p) PDF contains data structures (classes) used by the team
 - (4p) PDF contains all file's structures used to communicate between the apps
 - (6p) PDF contains all the commands the apps will implement
 
